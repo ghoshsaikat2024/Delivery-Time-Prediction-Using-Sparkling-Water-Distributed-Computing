@@ -1,4 +1,4 @@
-# Zomato Delivery Time Prediction using Sparkling Water(Pyspark+H2O) Multinode Distibuted Computing.
+# Zomato Delivery Time Prediction using Sparkling Water(Pyspark+H2O) Multinode Distributed Computing.
 # Zomato Delivery Time Prediction using Sparkling H2O Multinode
 
 ## Overview
@@ -61,7 +61,7 @@ Please follow \`instructions.txt\` file
 
 ![Model Training Prediction](sparkling_water_running_images/model_training_prediction.png)
 
-- A screenshot of the actual and predicted delivery time is available below and in the \`sparkling_water_running_images\` folder with the filename \`prediction plot.png\`.
+- A screenshot of the actual and predicted delivery time is available below and in the \`sparkling_water_running_images\` folder with the filename \`prediction_plot.png\`.
 
 ![Model Training Prediction](sparkling_water_running_images/prediction_plot.png)
 
